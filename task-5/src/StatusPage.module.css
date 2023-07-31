@@ -1,0 +1,30 @@
+
+.container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .title {
+    color: #007bff;
+  }
+  
+  .submitted-details {
+    margin: 10px 0;
+  }
+  
+  .status-button {
+    background-color: #0456ec;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .status-button:hover {
+    background-color: #007000;
+  }
+  
